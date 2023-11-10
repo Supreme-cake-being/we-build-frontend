@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/we-build-frontend/static/css/main.7acaea2f.css",
+    "main.js": "/we-build-frontend/static/js/main.07d3183d.js",
+    "index.html": "/we-build-frontend/index.html",
+    "main.7acaea2f.css.map": "/we-build-frontend/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/we-build-frontend/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
